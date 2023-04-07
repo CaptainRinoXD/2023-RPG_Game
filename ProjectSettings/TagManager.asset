@@ -50,9 +50,9 @@ TagManager:
   - name: OnFloor
     uniqueID: 253640157
     locked: 0
-  - name: Player
-    uniqueID: 1239045379
-    locked: 0
   - name: Wall
     uniqueID: 2147275167
+    locked: 0
+  - name: Player
+    uniqueID: 1239045379
     locked: 0
